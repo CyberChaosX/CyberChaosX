@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hey there!👋</h1>
+<h3 align="center">Hey there!👋</h3><hr>
 
 ###
 
@@ -54,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
-</div>
+</div><hr>
 
 ###
 
@@ -65,7 +65,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moulik10sharma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=moulik10sharma&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+</div><hr>
+
+###
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
 
 ###
