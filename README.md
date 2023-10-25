@@ -58,6 +58,16 @@
 
 ###
 
+<h3 align="center">Holopin Badges</h3>
+
+###
+
+<div align="center">
+<img src="https://holopin.me/moulik10sharma"/>
+</div><br>
+
+###
+
 <h3 align="center">🔥   My Stats</h3>
 
 ###
