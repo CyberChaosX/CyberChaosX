@@ -5,7 +5,7 @@
 ###
 
 <h3 align="center">👋 Hey there! I'm Moulik Sharma</h3>
-<h3 align="center">🌐 Find out more about me <a href="https://moulik.netlify.app">here</a></h3><hr>
+<h3 align="center">🌐 Find out more about me <a href="https://moulik.netlify.app" target="_blank">here</a></h3><hr>
 
 ###
 
