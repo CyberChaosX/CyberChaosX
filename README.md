@@ -59,13 +59,14 @@
 
 ###
 
+
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <a href="https://raw.githubusercontent.com/moulik10sharma/Postman-Challenge/main/docs/assets/postman.png"><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/postman.png" width="90px" height="90px" /></a>
-  <a href="https://raw.githubusercontent.com/moulik10sharma/Postman-Challenge/main/docs/assets/1.png"><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="90px" height="90px" /></a>
-  <a href="https://raw.githubusercontent.com/moulik10sharma/Postman-Challenge/main/docs/assets/2.png"><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="90px" height="90px" /></a>
-  <a href="https://raw.githubusercontent.com/moulik10sharma/Postman-Challenge/main/docs/assets/3.png"><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="90px" height="90px" /></a>
-  <a href="https://raw.githubusercontent.com/moulik10sharma/Postman-Challenge/main/docs/assets/4.png"><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="90px" height="90px" /></a>
-  <a href="https://raw.githubusercontent.com/moulik10sharma/Postman-Challenge/main/docs/assets/5.png"><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="90px" height="90px" /></a>
+  <a href="https://raw.githubusercontent.com/moulik10sharma/Postman-Challenge/main/docs/assets/postman.png"><img src="https://github.com/user-attachments/assets/0b787342-4412-4d2c-b2ee-088135bc12bb" width="90px" height="90px" /></a>
+  <a href="https://raw.githubusercontent.com/moulik10sharma/Postman-Challenge/main/docs/assets/1.png"><img src="https://gssoc.girlscript.tech/badges/1.png" width="90px" height="90px" /></a>
+  <a href="https://raw.githubusercontent.com/moulik10sharma/Postman-Challenge/main/docs/assets/2.png"><img src="https://gssoc.girlscript.tech/badges/2.png" width="90px" height="90px" /></a>
+  <a href="https://raw.githubusercontent.com/moulik10sharma/Postman-Challenge/main/docs/assets/3.png"><img src="https://gssoc.girlscript.tech/badges/3.png" width="90px" height="90px" /></a>
+  <a href="https://raw.githubusercontent.com/moulik10sharma/Postman-Challenge/main/docs/assets/4.png"><img src="https://gssoc.girlscript.tech/badges/4.png" width="90px" height="90px" /></a>
+  <a href="https://raw.githubusercontent.com/moulik10sharma/Postman-Challenge/main/docs/assets/5.png"><img src="https://gssoc.girlscript.tech/badges/5.png" width="90px" height="90px" /></a>
 </div>
 
 ###
